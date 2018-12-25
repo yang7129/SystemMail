@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="serverHost" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">10.16.1.211</Value>
+      <Value Profile="(Default)">1.1.1.1</Value>
     </Setting>
   </Settings>
 </SettingsFile>
