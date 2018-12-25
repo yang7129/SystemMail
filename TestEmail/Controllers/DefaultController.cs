@@ -39,9 +39,9 @@ namespace TestEmail.Controllers
                     MailService.InputMail InputMail = new MailService.InputMail();
                     try
                     { 
-                        InputMail.addressFrom = "lex@soft-world.com.tw";
-                        InputMail.addressNameFrom = "lex";
-                        InputMail.addressTo = "lex@soft-world.com.tw";
+                        InputMail.addressFrom = "aa@aa.aa.aa";
+                        InputMail.addressNameFrom = "aa";
+                        InputMail.addressTo = "aa@aa.aa.aa";
                         InputMail.addressNameTo = "lex";
                         InputMail.subject = "TEST信件";
                         InputMail.body = "這是測試內<img src='" + fileName + "'>容";
