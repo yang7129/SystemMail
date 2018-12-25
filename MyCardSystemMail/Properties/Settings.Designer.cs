@@ -25,7 +25,7 @@ namespace MyCardSystemMail.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("10.16.1.211")]
+        [global::System.Configuration.DefaultSettingValueAttribute("1.1.1.1")]
         public string serverHost {
             get {
                 return ((string)(this["serverHost"]));
